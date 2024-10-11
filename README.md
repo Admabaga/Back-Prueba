@@ -90,5 +90,6 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 - Maven 3.x
 
 ## Cómo ejecutar la aplicación
-
-1. Clona el repositorio:
+1. Clona el repositorio
+2. Instala las dependencias
+3. Ejecuta la aplicación
